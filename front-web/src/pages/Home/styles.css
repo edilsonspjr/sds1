@@ -10,7 +10,7 @@
   }
   
   .home-text-title {
-    font-size: 55px;
+    font-size: 50px;
     color: var(--color-turquoise);
   }
   
@@ -35,7 +35,7 @@
   }
   
   .home-btn:hover {
-    background-color: #04c7ef;
+    background-color:rgb(197, 31, 31);
   }
   
   .home-btn-icon {
