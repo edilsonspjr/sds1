@@ -36,8 +36,8 @@ const Home = () => {
                 </RectButton>
             </View>
        </>
-    )
-};
+    );
+}
 
 const styles = StyleSheet.create({
     container: {
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
       paddingRight: 50,
       fontFamily: "Play_700Bold",
       fontWeight: 'bold',
-      fontSize: 18,
+      fontSize: 20,
       color: '#0B1F34',
     }
   });
